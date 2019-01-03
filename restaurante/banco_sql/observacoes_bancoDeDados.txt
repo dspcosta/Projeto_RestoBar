@@ -1,0 +1,5 @@
+*****BANCO DE DADOS*****
+
+O Database para funcionamento correto deve-se chamar 'restaurante'.
+
+A principal e única tabela é a 'pratos'.

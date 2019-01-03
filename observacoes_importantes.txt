@@ -1,0 +1,5 @@
+*****OBSERVAÇÕES*****
+
+A seguinte aplicação foi desenvolvida em PHP e MySQL, dessa forma para seu correto funcionamento deve-se baixar os banco de dados presentes na pasta banco_sql.
+Ajustes na conexão localhost presente nos arquivos PHP deve ser ajustada, uma vez que a pagina é gerada de forma dinâmica, em conjunto com as informações do 
+Banco de dados.
