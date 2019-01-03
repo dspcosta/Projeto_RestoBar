@@ -38,10 +38,13 @@
 
                         <h5><b>Preço: </b>R$ <?php echo $row['preco']; ?></h5>
                         <h5><b>Calorias: </b><?php echo $row['calorias']; ?></h5> 
+                      
+                     
+
                     </div>
 
                     <div class="product-picture small-12 large-7 columns no-padding">
-                        <img src="img/cardapio/camarao-alho.jpg" alt="camarao">
+                        <img src="img/cardapio/<?php echo $row['codigo']; ?>.jpg" alt="<?php echo $row['nome']; ?>">
                     </div>
 
                 </div>
@@ -53,15 +56,19 @@
             </div>
         </div>
             
-       <?php }
+       <?php 
 
-    }
+
+            }
+
+        }
 
 
         
     ?>
     
-    <?php if ($row['nome'] == NULL) {
+    
+    <?php if ($result->num_rows <= 0) {
         echo '<h3 style="text-align:center">O PRATO SELECIONADO NAO FOI ENCONTRADO, VERIFIQUE!</h3>';
         ?>
          
