@@ -1,5 +1,5 @@
-*****OBSERVA«’ES*****
+*****OBSERVA√á√ïES*****
 
-A seguinte aplicaÁ„o foi desenvolvida em PHP e MySQL, dessa forma para seu correto funcionamento deve-se baixar os banco de dados presentes na pasta banco_sql.
-Ajustes na conex„o localhost presente nos arquivos PHP deve ser ajustada, uma vez que a pagina È gerada de forma din‚mica, em conjunto com as informaÁıes do 
-Banco de dados.
+A seguinte aplica√ß√£o foi desenvolvida em PHP e MySQL, dessa forma para seu correto funcionamento deve-se baixar os banco de dados presentes na pasta banco_sql. Instru√ß√µes para o Banco de Dados est√£o em sua respectiva pasta.
+
+Ajustes na conex√£o localhost presente nos arquivos PHP devem ser feitas, uma vez que a pagina √© gerada de forma din√¢mica, em conjunto com as informa√ß√µes do Banco de dados.
